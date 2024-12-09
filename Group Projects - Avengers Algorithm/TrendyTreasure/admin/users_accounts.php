@@ -22,7 +22,7 @@ if(isset($_GET['delete'])){
 }
 
 ?>
-
+   
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,13 +73,7 @@ if(isset($_GET['delete'])){
 </section>
 
 <!-- user accounts section ends -->
-
-
-
-
-
-
-
+   
 <!-- custom js file link  -->
 <script src="../js/admin_script.js"></script>
 
