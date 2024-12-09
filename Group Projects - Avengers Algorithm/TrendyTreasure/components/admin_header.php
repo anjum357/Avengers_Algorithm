@@ -10,13 +10,10 @@ if(isset($message)){
    }
 }
 ?>
-
 <header class="header">
 
    <section class="flex">
-
       <a href="dashboard.php" class="logo">Admin<span>Panel</span></a>
-
       <nav class="navbar">
          <a href="dashboard.php">Home</a>
          <a href="products.php">Products</a>
@@ -45,7 +42,5 @@ if(isset($message)){
          </div>
          <a href="../components/admin_logout.php" onclick="return confirm('logout from this website?');" class="delete-btn">logout</a>
       </div>
-
    </section>
-
 </header>
