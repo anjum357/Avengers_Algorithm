@@ -1,4 +1,4 @@
-# Avengers_Algorithm - Laptop Price Predictor
+# Avengers_Algorithm - [TrendyTreasure - A Gift Shop]
 
 Contributors: 
 1. Md. Masum Billah (383) [Team Leader]
@@ -6,4 +6,4 @@ Contributors:
 3. Homayra Anjum Tamanna (406)
 4. Shammi Athocho (179) 
 
-Project Tittle : Laptop Price Predictor
+Project Tittle : TrendyTreasure - A Gift Shop
