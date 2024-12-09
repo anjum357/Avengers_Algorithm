@@ -22,7 +22,6 @@
          <br>
          <a href="mailto:bd@gmail.com" class="am1">bd@gmail.com</a><br>
          <a href="mailto:tanjim187@gmail.com" class="am1">tanjim187@gmail.com</a> <br> <br>
-
          <h3>Phone:</h3>
          <a href="tel:01989621322" class="am1">01773384722</a>
          <br>
